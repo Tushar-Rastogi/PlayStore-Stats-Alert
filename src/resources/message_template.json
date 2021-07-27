@@ -1,0 +1,168 @@
+{
+	"blocks": [
+		{
+			"type": "header",
+			"text": {
+				"type": "plain_text",
+				"text": ":x: TESTING | PLEASE IGNORE THIS MESSAGE :x:"
+			}
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*Between:*"
+				},
+				{
+					"type": "plain_text",
+					"text": " ",
+					"emoji": true
+				},
+				{
+					"type": "mrkdwn",
+					"text": "2021-07-19"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "2021-07-20"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "plain_text",
+					"text": "Uninstall",
+					"emoji": true
+				},
+				{
+					"type": "image",
+					"image_url": "https://img.utdstc.com/icon/ac0/6be/ac06bec49c9de24128ac4579e6977dfddd9dd9cf0abb042a25a0e59bf16a6539:200",
+					"alt_text": "Uninstall"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*Daily User Uninstalls*:"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*Uninstall events*:"
+				},
+				{
+					"type": "plain_text",
+					"text": "a"
+				},
+				{
+					"type": "plain_text",
+					"text": "b"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "mrkdwn",
+					"text": "Install"
+				},
+				{
+					"type": "image",
+					"image_url": "https://www.pngitem.com/pimgs/m/255-2556536_install-our-android-apps-round-android-icon-png.png",
+					"alt_text": "Install"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*Daily User Installs*:"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*Installs events*:"
+				},
+				{
+					"type": "plain_text",
+					"text": "a"
+				},
+				{
+					"type": "plain_text",
+					"text": "b"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*Daily Device Installs*:"
+				},
+				{
+					"type": "mrkdwn",
+					"text": "*Active Device Installs*"
+				},
+				{
+					"type": "plain_text",
+					"text": "b"
+				},
+				{
+					"type": "plain_text",
+					"text": "b"
+				}
+			]
+		},
+		{
+			"type": "divider"
+		},
+		{
+			"type": "context",
+			"elements": [
+				{
+					"type": "plain_text",
+					"text": "Update",
+					"emoji": true
+				},
+				{
+					"type": "image",
+					"image_url": "https://mobikul.com/wp-content/uploads/2020/06/Android-Update.jpg",
+					"alt_text": "Update"
+				}
+			]
+		},
+		{
+			"type": "section",
+			"fields": [
+				{
+					"type": "mrkdwn",
+					"text": "*Update events*:"
+				},
+				{
+					"type": "plain_text",
+					"text": " "
+				},
+				{
+					"type": "plain_text",
+					"text": "a"
+				},
+				{
+					"type": "plain_text",
+					"text": " "
+				}
+			]
+		},
+		{
+			"type": "divider"
+		}
+	]
+}

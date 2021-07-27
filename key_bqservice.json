@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "paytm-app-layer",
+  "private_key_id": "21f2fb7f117ab27985eeffcdd2de0c9b3b375abd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnkm185RKZ56Xt\nGcWsDmY6jaCaHDZcdQxwAtEWqckFyYY/JbOt47AX13AjNUeAyozDxwy0ALLb/F7P\nyKm+aw4/NUTYF6O8MkubW4Sy20o2ZnrvHQlLZh2SYQvkQ7ISyi09lHlz90Q4Idgj\nL0dUs6Ux8bwJtP5En1mtZxAUDWbuDDVrRtg1AKlrwQX4/8onmtWmwx0Ae89Mwao1\npXNZXY6WMSCha799U+ZG9lg94MSjv7znYqrtwCOPw1IuPyecAJyY9/QbiiNzYpFy\nYc6L9O8cYU7eiZljmAwkBSrhJNV65cjF7vQDF4kp/b4OWd2JobRKRp5Blury/Lhv\niIYekErnAgMBAAECggEAAtigYuAX5e9ccTkXXmGA7ShPeIVvP5yqrffC5SHqGBmd\nfkoy1qjNQcXCmZQukE0tBLz+EXpOuHh2G9yuBWqgbrNzaKqFtyrxFfQ+gcpDM773\ntNepBRW4uFNcB46zchqtCqw3/+5ilsQHuYr7t/VLSv1bH81rMKG6wvBY2L4/bR6Q\nTnaNYfT+Hk6W4mcggRLXBDoMEIp0Y312QW5OkgTHwmpkbN6R5HEPBjmV5oQSl5Eo\n/7cWUtzChnlCcipEJoiTyHgdZ889c6PVoi7OY4CRKuxiEFl8ui69CbVZki5pbER+\nWjlMVlR3aiSIMZdLOlI8NqwJC/03gvVFshxTKSfyRQKBgQD7suGKKvPOz1nfvxNp\nOn2+OnynstyjQQ1FbgemUitc5Kn2N7OffTwx2+bB0b0lcYKpwOYkN46BmPU53Yp1\n0UEbIPTWROSLsyC7Ifrt3ZXqLjW1BqrwAGq+ZLp3lErnxbnJD5vrClSYAPTZFZnC\npAzPfiIov/QlaP9qcDhZmPUiAwKBgQDrh39Be4zAIxcodBRz7m830aNTljyDTbLi\nqybwCw6rWrddf325Bk44igNP1dI6FjDRZvm7pNiuIDB7+WXvWlP70BRRgecjeAWu\n5kVTUHiMo/HDPoH+ggQTmp6sdQ9yf1QqEkivyKzGsoG3U32UlVhWw3t4hJI+utfA\n7Lbmm9GwTQKBgGsSKn2jTfnxHRNgbjp6ZllQ+gxAuzk7iBC8AMcQ919Z6q9R/Lhh\nBwVSvXQ/682M3v+ljoFjnNymm9MU2jzKWn7W4zBvOCXxeoAAsYUUmRx4seIjRv43\nvzDlGqmZzM+Rvjm4ySQQTfInngDm/nTdYpG134QkPBDZ/KVjvaTnu4fPAoGBANle\nn++LWwcoW4MWPpoP/80ASUAnc4mq9+GCG9mGGu/CNWCw/RL54s8DcLMJn4/EUyGv\na+Pl66QoSRbhwVX5g3DvRRFEVlHBv1z/YBPYPKlv1PxggBCnZaPCG5cGIk+Fe+Oo\nJDU3e12V+Wl8QHYUrwbEOvurPl1uixieXt7OB+QxAoGBAIIajdw0fcpsdZDfM1L0\nCFmNGpCbsmPdHZHd0fvhH61ELTUzjXOoUAihe/msVshFvHIBYiThpSluJQwZvWu9\n4SchUSxB1X1vVegpm1YHnh7si9Fidd7MbqZRZBzTJkOlGIGGoEhqo5m6iXyLBKth\n5zWzrWBmnDVLBojP8Fg+Am9+\n-----END PRIVATE KEY-----\n",
+  "client_email": "bqservice@paytm-app-layer.iam.gserviceaccount.com",
+  "client_id": "115749688854793060148",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bqservice%40paytm-app-layer.iam.gserviceaccount.com"
+}
